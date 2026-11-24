@@ -427,14 +427,6 @@ By combining document processing, structured data extraction, REST APIs, and Lar
 B.Tech – Computer Science Engineering  
 Specialization: Data Science
 
-GitHub: [Add your GitHub profile URL](https://github.com/)
-
-LinkedIn: [Add your LinkedIn profile URL](https://linkedin.com/)
-
----
-
-## ⭐ Support
-
 If you find this project interesting, consider giving the repository a star ⭐ on GitHub!
 
 Contributions, suggestions, and feedback are welcome.
